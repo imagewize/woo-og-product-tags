@@ -1,0 +1,12 @@
+.git
+.gitignore
+.gitattributes
+.distignore
+.DS_Store
+.idea
+vendor
+node_modules
+composer.json
+composer.lock
+pint.json
+*.log
